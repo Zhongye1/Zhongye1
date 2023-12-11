@@ -14,9 +14,9 @@
 
 ### 社交主页
 
-*   https://zhongye1.github.io：个人网站
-*   https://space.bilibili.com/446805121?spm_id_from=333.1007.0.0：Bilibili主页，播放量60万+
-*   2760913192: QQ
+* 个人网站:  https://zhongye1.github.io
+* Bilibili主页，播放量60万+ : https://space.bilibili.com/446805121?spm_id_from=333.1007.0.0
+*  QQ:  2760913192
 
 ### 技术栈（装饰用（bushi
 
