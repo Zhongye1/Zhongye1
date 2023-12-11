@@ -1,7 +1,7 @@
 ## 柊野（Zhongye1
 [![Hi](https://camo.githubusercontent.com/f4fe0fbdca9e7d8a0e554e9048dd0c7e6a85f579d4d075aaf3f6be3b292b2117/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383836363937332f383933342f68656c6c6f6b6974747964616e63652e6769663f31353838383636393733)](https://camo.githubusercontent.com/f4fe0fbdca9e7d8a0e554e9048dd0c7e6a85f579d4d075aaf3f6be3b292b2117/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383836363937332f383933342f68656c6c6f6b6974747964616e63652e6769663f31353838383636393733)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhongye1)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 自我介绍
 
