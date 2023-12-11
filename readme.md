@@ -36,6 +36,5 @@
 
 # 项目
 
-<img width="340px" src="https://github-readme-stats.vercel.app/api?username=Zhongye1&theme=vue-dark&count_private=true&show_icons=true">
-<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhongye1&theme=vue-dark&layout=compact">
-<img width="340px" src="https://github-readme-stats.vercel.app/api/pin/?username=Zhongye1&repo=my-now-blog&theme=dark">
+https://github.com/Zhongye1/Zhongye1.github.io
+博客
