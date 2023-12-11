@@ -13,11 +13,15 @@
 
 ### 社交主页
 
-* 个人网站:                   https://zhongye1.github.io （欢迎添加友链
+* ##个人网站:                   https://zhongye1.github.io （欢迎添加友链
+* 
   ![a32e9e93c9212dc8e0ceca79963c6e3](https://picdm.sunbangyan.cn/2023/12/11/a2bf1eceb6ddc925249038b81491d73e.jpeg)
-* Bilibili主页，播放量60万+:   https://space.bilibili.com/446805121?spm_id_from=333.1007.0.0
+  
+* ##Bilibili主页，播放量60万+:   https://space.bilibili.com/446805121?spm_id_from=333.1007.0.0
+* 
   ![屏幕截图 2023-12-11 222407](https://picdm.sunbangyan.cn/2023/12/11/3cda8e97b8d3bfbad3bb9ed7092d2a8d.jpeg)
-*  QQ:  2760913192
+  
+* ##QQ:  2760913192
 
 [![GIF](https://camo.githubusercontent.com/a9afb54ac43c2c0a41fea0dd2a731298db5a207d6a82c42afcc95106d5e43088/68747470733a2f2f7a34612e6e65742f696d616765732f323032332f30382f31342f707573682e77656270)](https://camo.githubusercontent.com/a9afb54ac43c2c0a41fea0dd2a731298db5a207d6a82c42afcc95106d5e43088/68747470733a2f2f7a34612e6e65742f696d616765732f323032332f30382f31342f707573682e77656270)
 
