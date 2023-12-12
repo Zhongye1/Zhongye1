@@ -16,7 +16,7 @@
 * ##个人网站:                   https://zhongye1.github.io （欢迎添加友链
 -
 * ![屏幕截图 2023-12-11 222831](https://picss.sunbangyan.cn/2023/12/11/e87edb05837b6c4356c6a83053699959.jpeg)
-  ![a32e9e93c9212dc8e0ceca79963c6e3](https://picdm.sunbangyan.cn/2023/12/11/a2bf1eceb6ddc925249038b81491d73e.jpeg)
+### 按F12有彩蛋！
   -
 * ##Bilibili主页，播放量60万+:   https://space.bilibili.com/446805121?spm_id_from=333.1007.0.0
   -
