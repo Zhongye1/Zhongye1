@@ -1,5 +1,5 @@
 ## 柊野（Zhongye1
-![微信图片_20231226194258](https://picdm.sunbangyan.cn/2023/12/26/54020b9dbff51e449eb96573e85ab131.jpeg)
+
 # 个人
 
 *   来自湖北仙桃
