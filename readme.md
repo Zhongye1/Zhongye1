@@ -13,12 +13,9 @@
 
 * ##个人网站:                   https://zhongye1.github.io （欢迎添加友链
 -
-* ![屏幕截图 2023-12-11 222831](https://picss.sunbangyan.cn/2023/12/11/e87edb05837b6c4356c6a83053699959.jpeg)
 ### 按F12有彩蛋！
   -
 * ##Bilibili主页   https://space.bilibili.com/446805121?spm_id_from=333.1007.0.0
-  -
-  ![屏幕截图 2023-12-11 222407](https://picdm.sunbangyan.cn/2023/12/11/3cda8e97b8d3bfbad3bb9ed7092d2a8d.jpeg)
   -
 * ##QQ:  2760913192
 
