@@ -3,9 +3,10 @@
 # 个人
 
 *   来自湖北仙桃
+*   南漂中
 *   目前在广州大学坐牢，学数据科学与大数据技术专业
 *   欢迎光临我的Github 和博客
-![动图]([https://pic4.zhimg.com/v2-68ff3d189ef7ec060222261a98892e67_b.webp](https://pic4.zhimg.com/v2-9927aa01d3a3b97a0fc9ba5d4a4c1d47_b.webp))
+
 
 
 ### 社交主页
