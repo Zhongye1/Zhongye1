@@ -1,4 +1,5 @@
 ## 柊野（Zhongye1
+![IMG2024020421240704](https://github.com/user-attachments/assets/6424fae9-6c1f-4ac1-a7b1-8a0349f75c5c)
 
 # 个人
 
