@@ -5,7 +5,7 @@
 *   南漂中
 *   数据科学与大数据技术专业
 *   广州大学大二就读
-*   欢迎光临我的Github 和博客
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
