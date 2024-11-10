@@ -16,6 +16,7 @@
   
 * ## QQ:  2760913192
 
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={YOUR_USERNAME}&theme=github-compact&hide_border=true&area=true" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhongye1&count_private=true)
 
