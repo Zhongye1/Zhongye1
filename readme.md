@@ -25,6 +25,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zhongye1/Zhongye1.github.io)
 
 # 项目
--
-https://github.com/Zhongye1/Zhongye1.github.io
-博客
+[![Zhongye1/Zhongye1.github.io - GitHub](https://gh-card.dev/repos/Zhongye1/Zhongye1.github.io.svg)](https:zhongye1.github.io)
+
+[![Zhongye1/Bocchi-the-rock-SITE - GitHub](https://gh-card.dev/repos/Zhongye1/Bocchi-the-rock-SITE.svg)](https://github.com/Zhongye1/Bocchi-the-rock-SITE)
