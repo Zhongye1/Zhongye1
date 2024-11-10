@@ -15,7 +15,7 @@
 
 * ## 个人网站:    https://zhongye1.github.io （欢迎添加友链
   
-* ## Bilibili主页   https://space.bilibili.com/446805121?spm_id_from=333.1007.0.0
+* ## Bilibili主页   https://space.bilibili.com/446805121
   
 * ## QQ:  2760913192
 
