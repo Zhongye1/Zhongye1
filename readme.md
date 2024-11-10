@@ -1,12 +1,9 @@
 ## 柊野（Zhongye1
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E8CF7&width=435&lines=Where+we+go+when+we+fade%3F;We+fade+from+the+minds+of+others;but+never+the+minds+of+our+own.+)](https://git.io/typing-svg)
 *   来自湖北沔阳
 *   南漂中
 *   数据科学与大数据技术专业
 *   广州大学大二就读
-  
-![github-card (14)](https://github.com/user-attachments/assets/9f97a1bb-a032-4a75-8410-c1f9c211eec7)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
