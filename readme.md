@@ -13,7 +13,9 @@
 * ## Bilibili主页   https://space.bilibili.com/446805121
   
 * ## QQ:  2760913192
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zhongye1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md&theme=light" />
+
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=github-compact&hide_border=true&area=true" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhongye1&count_private=true)
