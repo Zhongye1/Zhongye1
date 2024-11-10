@@ -6,8 +6,6 @@
 *   广州大学大二就读
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### 社交主页
 
 * ## 个人网站:    https://zhongye1.github.io （欢迎添加友链
@@ -15,7 +13,7 @@
 * ## Bilibili主页   https://space.bilibili.com/446805121
   
 * ## QQ:  2760913192
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zhongye1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=github-compact&hide_border=true&area=true" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhongye1&count_private=true)
