@@ -25,7 +25,6 @@
 # 项目
 [![Zhongye1/Zhongye1.github.io - GitHub](https://gh-card.dev/repos/Zhongye1/Zhongye1.github.io.svg)](https:zhongye1.github.io)
 
-[![Zhongye1/Bocchi-the-rock-SITE - GitHub](https://gh-card.dev/repos/Zhongye1/Bocchi-the-rock-SITE.svg)](https://github.com/Zhongye1/Bocchi-the-rock-SITE)
 
 
 ![IMG2024020421240704](https://github.com/user-attachments/assets/6424fae9-6c1f-4ac1-a7b1-8a0349f75c5c)
