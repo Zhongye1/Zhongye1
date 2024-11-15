@@ -22,9 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zhongye1/Zhongye1.github.io)
 
-# 项目
-[![Zhongye1/Zhongye1.github.io - GitHub](https://gh-card.dev/repos/Zhongye1/Zhongye1.github.io.svg)](https:zhongye1.github.io)
-
-
+![3af69182fcd99dd7b52cdadcb906e3b](https://github.com/user-attachments/assets/e24515c3-c4ec-45c6-af3c-dc72c02fd5f5)
 
 ![IMG2024020421240704](https://github.com/user-attachments/assets/6424fae9-6c1f-4ac1-a7b1-8a0349f75c5c)
