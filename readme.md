@@ -5,6 +5,7 @@
 *   数据科学与大数据技术专业
 *   广州大学大二就读
 
+<img src="https://free-img.400040.xyz/4/2024/11/15/6736c4c80284d.png" alt="3af69182fcd99dd7b52cdadcb906e3b" style="zoom:50%; " align="right"/>
 
 ### 社交主页
 
@@ -21,7 +22,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhongye1&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zhongye1/Zhongye1.github.io)
-
-![3af69182fcd99dd7b52cdadcb906e3b](https://github.com/user-attachments/assets/e24515c3-c4ec-45c6-af3c-dc72c02fd5f5)
 
 ![IMG2024020421240704](https://github.com/user-attachments/assets/6424fae9-6c1f-4ac1-a7b1-8a0349f75c5c)
