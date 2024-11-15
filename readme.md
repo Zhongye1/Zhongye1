@@ -24,7 +24,7 @@
 * **Email**  zhongye@e.gzhu.edu.cn
   
 *  **QQ**  2760913192
-*  
+  
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md&theme=light" />
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=github-compact&hide_border=true&area=true" />
