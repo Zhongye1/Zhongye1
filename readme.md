@@ -1,14 +1,19 @@
 ## 柊野（Zhongye1
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E8CF7&width=435&lines=Where+we+go+when+we+fade%3F;We+fade+from+the+minds+of+others;but+never+the+minds+of+our+own.+)](https://git.io/typing-svg)
-<img width="264" alt="image" src="https://github.com/user-attachments/assets/6b6eddc3-b463-467a-a451-e88d73a882b7"  zoom="15%" align="right"/>
+
 *   来自湖北沔阳
 *   南漂中
 *   数据科学与大数据技术专业
 *   广州大学大二就读
-
-
-
 ---
+
+<img width="264" alt="image" src="https://github.com/user-attachments/assets/a2d50ec1-0989-4751-8114-cb497b1171c4"  zoom="15%" align="right"/>
+
+
+
 
 
 
