@@ -10,13 +10,15 @@
 
 ---
 
-### 社交主页
 
-* ## 个人网站:    https://zhongye1.github.io （欢迎添加友链
+
+*  **个人网站**    https://zhongye1.github.io （欢迎添加友链
   
-* ## Bilibili主页   https://space.bilibili.com/446805121
+*  **B站主页**   https://space.bilibili.com/446805121
   
-* ## QQ:  2760913192
+*  **QQ**  2760913192
+
+* **Email**  zhongye@e.gzhu.edu.cn
 
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md&theme=light" />
 
@@ -26,4 +28,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Zhongye1/Zhongye1.github.io)
 
-![IMG2024020421240704](https://github.com/user-attachments/assets/6424fae9-6c1f-4ac1-a7b1-8a0349f75c5c)
+
