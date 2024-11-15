@@ -5,7 +5,9 @@
 *   数据科学与大数据技术专业
 *   广州大学大二就读
 
-<img src="https://free-img.400040.xyz/4/2024/11/15/6736c4c80284d.png" alt="3af69182fcd99dd7b52cdadcb906e3b" style="zoom:50%; " align="right"/>
+<img src="https://free-img.400040.xyz/4/2024/11/15/6736c4c80284d.png" alt="3af69182fcd99dd7b52cdadcb906e3b" style="zoom:25%; " align="right"/>
+
+---
 
 ### 社交主页
 
