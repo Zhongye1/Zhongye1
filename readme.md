@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E8CF7&width=435&lines=Where+we+go+when+we+fade%3F;We+fade+from+the+minds+of+others;but+never+the+minds+of+our+own.+)](https://git.io/typing-svg)
 
 
-<img height="400" alt="image" src="https://github.com/user-attachments/assets/6ca56d4b-ce63-4d37-a171-c72e580ea350" align="right"/>
+<img height="350" alt="image" src="https://github.com/user-attachments/assets/6ca56d4b-ce63-4d37-a171-c72e580ea350" align="right"/>
 
 *   来自湖北沔阳
 *   南漂中
