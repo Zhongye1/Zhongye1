@@ -18,7 +18,7 @@
 
 
 
-*  **个人网站**    https://zhongye1.github.io （欢迎添加友链
+*  **博客**    https://zhongye1.github.io （欢迎添加友链
   
 *  **B站主页**   https://space.bilibili.com/446805121
 
