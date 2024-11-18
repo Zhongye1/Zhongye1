@@ -5,12 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E8CF7&width=435&lines=Where+we+go+when+we+fade%3F;We+fade+from+the+minds+of+others;but+never+the+minds+of+our+own.+)](https://git.io/typing-svg)
 
 
-<img height="350" alt="image" src="https://github.com/user-attachments/assets/451592d7-cbdb-4a09-9c0b-95f541a7299a" align="right"/>
+
 
 *   来自湖北沔阳
 *   南漂中
 *   数据科学与大数据技术专业
 *   广州大学大二就读
+
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/3c770edf-6f65-45e1-b83a-8e49747e0486" align="right"/>
 
 =====================
 
