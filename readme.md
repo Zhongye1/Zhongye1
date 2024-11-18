@@ -5,8 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4E8CF7&width=435&lines=Where+we+go+when+we+fade%3F;We+fade+from+the+minds+of+others;but+never+the+minds+of+our+own.+)](https://git.io/typing-svg)
 
 
-
-<img height="350" alt="image" src="https://github.com/user-attachments/assets/4945af40-d394-4266-8aaa-3af2803ff39d" align="right"/>
+<img height="350" alt="image" src="https://github.com/user-attachments/assets/451592d7-cbdb-4a09-9c0b-95f541a7299a" align="right"/>
 
 *   来自湖北沔阳
 *   南漂中
@@ -38,8 +37,9 @@
 
 
 
-<img width="40%" alt="image" src="https://github.com/user-attachments/assets/3700c542-738c-46d8-b7ce-1d0a8b0ee57b" align="left"/>
-<img width="55%" alt="image" src="https://github.com/user-attachments/assets/93465258-228f-4331-81b6-43326923902f" align="right"/>
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/4b18ba3b-f71f-4681-99ae-a45d2325fe1f" align="left"/>
+<img width="55%" alt="image" src="https://github.com/user-attachments/assets/77706b5d-e965-449e-9d49-dcc3c0bb1509" align="right"/>
+
 
 
 
