@@ -33,10 +33,10 @@
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=github-compact&hide_border=true&area=true" align="left"/>
 
 
-
+<img height="180" alt="image" src="https://github-readme-stats.vercel.app/api?username=Zhongye1&count_private=true" align="right"/>
 <img height="300" alt="image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" align="left"/>
 
-<img height="180" alt="image" src="https://github-readme-stats.vercel.app/api?username=Zhongye1&count_private=true" align="right"/>
+
 
 
 
