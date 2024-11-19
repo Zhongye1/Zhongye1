@@ -7,12 +7,15 @@
 
 
 
+
+<img height="350" alt="image" src="https://github.com/user-attachments/assets/5b37a880-7f27-4e1c-8ce4-04a34cd56339" align="right"/>
+
 *   来自湖北沔阳
 *   南漂中
-*   数据科学与大数据技术专业
+*   数科专业
 *   广州大学大二就读
 
-<img height="250" alt="image" src="https://github.com/user-attachments/assets/3c770edf-6f65-45e1-b83a-8e49747e0486" align="right"/>
+
 
 =====================
 
