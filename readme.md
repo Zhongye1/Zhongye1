@@ -40,7 +40,7 @@
 
 
 <img width="40%" alt="image" src="https://github.com/user-attachments/assets/4b18ba3b-f71f-4681-99ae-a45d2325fe1f" align="left"/>
-<img width="55%" alt="image" src="https://github.com/user-attachments/assets/77706b5d-e965-449e-9d49-dcc3c0bb1509" align="right"/>
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/77706b5d-e965-449e-9d49-dcc3c0bb1509" align="right"/>
 
 
 
