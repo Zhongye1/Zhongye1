@@ -8,7 +8,7 @@
 
 
 
-<img height="350" alt="image" src="https://github.com/user-attachments/assets/5b37a880-7f27-4e1c-8ce4-04a34cd56339" align="right"/>
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/5b37a880-7f27-4e1c-8ce4-04a34cd56339" align="right"/>
 
 *   来自湖北沔阳
 *   南漂中
