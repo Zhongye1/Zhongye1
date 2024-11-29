@@ -53,7 +53,7 @@ Thanks goes to these wonderful people:
     <tr>
       <td align="center">
         <a https://github.com/Zhongye1">
-          <img src="https://avatars.githubusercontent.com/u/145737758?v=4" alt="Vaibhav" width="100" height="100" />
+          <img src="https://github.com/user-attachments/assets/002392fe-bd77-43e2-9ac4-12c2d8a8d1b1" alt="Vaibhav" width="100" height="100" />
           <br />
           <strong>Gotoh Hitori</strong>
           <br />
@@ -68,48 +68,46 @@ Thanks goes to these wonderful people:
           <br />
           <strong>Ijichi Nijika</strong>
           <br />
-          <em>GitHub: <a href="https://github.com/8023time">@Ijichi-Nijika</a></em>
+          <em>GitHub: <a href="https://github.com/Ijichi-Nijika">@Ijichi-Nijika</a></em>
           <br />
           Contributions: Documentation 📖
         </a>
       </td>
       <td align="center">
-        <a "https://github.com/arianna-h">
-          <img src="https://avatars.githubusercontent.com/u/139214701?v=4" alt="Jonah Lawrence" width="100" height="100" />
+        <a "https://github.com/Yamada Ryo">
+          <img src="https://github.com/user-attachments/assets/add5ca94-d601-4dd0-9e38-195df083b73f" alt="Yamada Ryo" width="100" height="100" />
           <br />
-          <strong>Jianxuan Zhou</strong>
+          <strong>Yamada Ryō</strong>
           <br />
-          <em>GitHub: <a href="https://github.com/arianna-h">@arianna-h</a></em>
+          <em>GitHub: <a href="https://github.com/Yamada-Ryō">@Yamada Ryo</a></em>
           <br />
           Contributions: Documentation 📖
         </a>
       </td>
       <td align="center">
-        <a "https://github.com/LF12306">
-          <img src="https://avatars.githubusercontent.com/u/100217045?v=4" alt="Milind Modi" width="100" height="100" />
+        <a "https://github.com/Kita Ikuyo">
+          <img src="https://github.com/user-attachments/assets/3461ed6c-b484-4a11-827e-8fc9961f0fcc" alt="Kita Ikuyo" width="100" height="100" />
           <br />
-          <strong>yediao</strong>
+          <strong>Kita Ikuyo</strong>
           <br />
-          <em>GitHub: <a href="https://github.com/LF12306">@LF12306</a></em>
+          <em>GitHub: <a href="https://github.com/Kita-Ikuyo">@Kita Ikuyo</a></em>
           <br />
           Contributions: Documentation 📖
         </a>
       </td>
-          <td align="center">
-        <a "https://github.com/ltzu929">
-          <img src="https://avatars.githubusercontent.com/u/184350138?v=4" alt="Milind Modi" width="100" height="100" />
+      <td align="center">
+        <a https://github.com/Hiroi-Kikuri">
+          <img src="https://github.com/user-attachments/assets/97319d6f-2b47-47f3-bc3d-514c8fa2c8de" alt="Vaibhav" width="100" height="100" />
           <br />
-          <strong>ltzu929</strong>
+          <strong>Hiroi-Kikuri</strong>
           <br />
-          <em>GitHub: <a href="https://github.com/ltzu929">@ltzu929</a></em>
+          <em>GitHub: <a href="https://github.com/Hiroi-Kikuri">@Hiroi-Kikuri</a></em>
           <br />
-          Contributions: Documentation 📖
+          Contributions: Code 💻, Documentation 📖
         </a>
       </td>
     </tr>
   </table>
-
-
 
 
 
