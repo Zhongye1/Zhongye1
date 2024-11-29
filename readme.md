@@ -43,21 +43,71 @@
 ---
 
 
-Но я верю, что ты
 
-Снова скажешь эти несколько слов,
+### 开发合作 📋
 
-И тогда я готов
+Thanks goes to these wonderful people:
 
-Оставить след на этом снегу.
-
-И я знаю, что мне
-
-Недолго осталось ждать.
-
-Чтобы снова увидеть
-
-Сосны на морском берегу...
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a https://github.com/Zhongye1">
+          <img src="https://avatars.githubusercontent.com/u/145737758?v=4" alt="Vaibhav" width="100" height="100" />
+          <br />
+          <strong>Gotoh Hitori</strong>
+          <br />
+          <em>GitHub: <a href="https://github.com/Zhongye1">@Zhongye1</a></em>
+          <br />
+          Contributions: Code 💻, Documentation 📖
+        </a>
+      </td>
+      <td align="center">
+        <a "https://github.com/Ijichi-Nijika">
+          <img src="https://github.com/user-attachments/assets/d9d2e00a-dc2d-4f22-b041-158efd0d28b2" alt="Ijichi-Nijika" width="100" height="100" />
+          <br />
+          <strong>Ijichi Nijika</strong>
+          <br />
+          <em>GitHub: <a href="https://github.com/8023time">@Ijichi-Nijika</a></em>
+          <br />
+          Contributions: Documentation 📖
+        </a>
+      </td>
+      <td align="center">
+        <a "https://github.com/arianna-h">
+          <img src="https://avatars.githubusercontent.com/u/139214701?v=4" alt="Jonah Lawrence" width="100" height="100" />
+          <br />
+          <strong>Jianxuan Zhou</strong>
+          <br />
+          <em>GitHub: <a href="https://github.com/arianna-h">@arianna-h</a></em>
+          <br />
+          Contributions: Documentation 📖
+        </a>
+      </td>
+      <td align="center">
+        <a "https://github.com/LF12306">
+          <img src="https://avatars.githubusercontent.com/u/100217045?v=4" alt="Milind Modi" width="100" height="100" />
+          <br />
+          <strong>yediao</strong>
+          <br />
+          <em>GitHub: <a href="https://github.com/LF12306">@LF12306</a></em>
+          <br />
+          Contributions: Documentation 📖
+        </a>
+      </td>
+          <td align="center">
+        <a "https://github.com/ltzu929">
+          <img src="https://avatars.githubusercontent.com/u/184350138?v=4" alt="Milind Modi" width="100" height="100" />
+          <br />
+          <strong>ltzu929</strong>
+          <br />
+          <em>GitHub: <a href="https://github.com/ltzu929">@ltzu929</a></em>
+          <br />
+          Contributions: Documentation 📖
+        </a>
+      </td>
+    </tr>
+  </table>
 
 
 
