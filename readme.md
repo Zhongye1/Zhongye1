@@ -103,7 +103,7 @@ Thanks goes to these wonderful people:
           <br />
           <em>GitHub: <a href="https://github.com/Hiroi-Kikuri">@Hiroi-Kikuri</a></em>
           <br />
-          Contributions: BASS📖
+          Contributions: Documentation 📖
         </a>
       </td>
     </tr>
