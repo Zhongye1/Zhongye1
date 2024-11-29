@@ -57,7 +57,7 @@ Thanks goes to these wonderful people:
           <br />
           <strong>Gotoh Hitori</strong>
           <br />
-          <em>GitHub: <a href="https://github.com/Zhongye1">@Zhongye1</a></em>
+          <em>GitHub: <a href="https://github.com/Zhongye1">@Bocchi</a></em>
           <br />
           Contributions: Code 💻, Documentation 📖
         </a>
