@@ -77,9 +77,9 @@ Thanks goes to these wonderful people:
         <a "https://github.com/Yamada Ryo">
           <img src="https://github.com/user-attachments/assets/add5ca94-d601-4dd0-9e38-195df083b73f" alt="Yamada Ryo" width="100" height="100" />
           <br />
-          <strong>Yamada Ryō</strong>
+          <strong>Yamada-Ryo</strong>
           <br />
-          <em>GitHub: <a href="https://github.com/Yamada-Ryō">@Yamada Ryo</a></em>
+          <em>GitHub: <a href="https://github.com/Yamada-Ryō">@Yamada-Ryo</a></em>
           <br />
           Contributions: Documentation 📖
         </a>
@@ -103,7 +103,7 @@ Thanks goes to these wonderful people:
           <br />
           <em>GitHub: <a href="https://github.com/Hiroi-Kikuri">@Hiroi-Kikuri</a></em>
           <br />
-          Contributions: Code 💻, Documentation 📖
+          Contributions: BASS📖
         </a>
       </td>
     </tr>
