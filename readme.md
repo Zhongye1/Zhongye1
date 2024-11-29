@@ -79,7 +79,7 @@ Thanks goes to these wonderful people:
           <br />
           <strong>Yamada-Ryo</strong>
           <br />
-          <em>GitHub: <a href="https://github.com/Yamada-Ryō">@Yamada-Ryo</a></em>
+          <em>GitHub: <a href="https://github.com/Yamada-Ryō">@Ryosenpai</a></em>
           <br />
           Contributions: Documentation 📖
         </a>
