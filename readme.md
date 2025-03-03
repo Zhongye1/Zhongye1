@@ -47,6 +47,7 @@
 
 https://github.com/Guangzhou-University-SITE-193
 / Open Source Organization from Guangzhou-University
+<img width="430" alt="image" src="https://github.com/user-attachments/assets/a8315047-4533-452c-a0d1-9ac743fd1078" />
 
 
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=github-compact&hide_border=true&area=true" align="left"/>
