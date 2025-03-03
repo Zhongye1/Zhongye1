@@ -37,6 +37,18 @@
 
 ---
 
+# GZHU-SITE-193
+![image](https://github.com/user-attachments/assets/4543b5c4-84e1-49a4-9623-b2646bbe936b)
+# 加入广州大学193号工作站！📋
+
+[![blog](https://img.shields.io/badge/HOST-GZHU-blue.svg)](https://www.gzhu.edu.cn/)
+[![blog](https://img.shields.io/badge/站长博客-zhongye1.github.io-orange.svg)](zhongye1.github.io)
+[![Email](https://img.shields.io/badge/网站-GZHU.site.193-cyan.svg)](zhongye@e.gzhu.edu.cn)
+
+https://github.com/Guangzhou-University-SITE-193
+/ Open Source Organization from Guangzhou-University
+
+
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=github-compact&hide_border=true&area=true" align="left"/>
 
 
