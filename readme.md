@@ -7,7 +7,7 @@
 
 
 
-https://github.com/user-attachments/assets/28259fc3-2bd1-47da-9a0e-74fbdb7cc052
+
 
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/42b94c05-a812-4359-955c-14203a05c5d7" align="right"/>
@@ -112,7 +112,7 @@ Thanks goes to these wonderful people:
     </tr>
   </table>
 
-
+你说的对，但是《GitHub》是由GitHub, Inc.自主研发的一款全新代码协作平台。使用该平台的项目托管在一个被称作「远程仓库」的数字空间，在这里被Git选中的人将被授予「协作开发权能」，掌控版本控制的力量。你将扮演一位名为「Maintainer」的代码管理者，在开放的协作中邂逅不同开源协议、风格迥异的代码仓库和持续集成的Actions，和它们一起解决Pull Request，找回丢失的Commits的同时，逐步发掘「.git」目录中埋藏的版本奥秘。
 
 
 
