@@ -78,7 +78,7 @@ Thanks goes to these wonderful people:
       </td>
       <td align="center">
         <a "https://github.com/Ijichi-Nijika">
-          <img src="https://github.com/user-attachments/assets/d9d2e00a-dc2d-4f22-b041-158efd0d28b2" alt="Ijichi-Nijika" width="100" height="100" />
+          <img src="https://github.com/user-attachments/assets/7e8f5620-60e1-41ed-97c2-d7e7c4bebc12" alt="Ijichi-Nijika" width="100" height="100" />
           <br />
           <strong>Ijichi Nijika</strong>
           <br />
@@ -89,39 +89,30 @@ Thanks goes to these wonderful people:
       </td>
       <td align="center">
         <a "https://github.com/Yamada Ryo">
-          <img src="https://github.com/user-attachments/assets/add5ca94-d601-4dd0-9e38-195df083b73f" alt="Yamada Ryo" width="100" height="100" />
+          <img src="https://github.com/user-attachments/assets/1e8bd280-f5c4-4fce-933f-254bfca73a60" alt="Yamada Ryo" width="100" height="100" />
           <br />
           <strong>Yamada-Ryo</strong>
           <br />
-          <em>GitHub: <a href="https://github.com/Yamada-Ryō">@Ryosenpai</a></em>
+          <em>GitHub: <a href="https://github.com/Yamada-Ryō">@Ryo233</a></em>
           <br />
           Contributions: Documentation 📖
         </a>
       </td>
       <td align="center">
         <a "https://github.com/Kita Ikuyo">
-          <img src="https://github.com/user-attachments/assets/3461ed6c-b484-4a11-827e-8fc9961f0fcc" alt="Kita Ikuyo" width="100" height="100" />
+          <img src="https://github.com/user-attachments/assets/acd7936a-ad25-4e40-90ca-ab5a57225241" alt="Kita Ikuyo" width="100" height="100" />
           <br />
-          <strong>Kita Ikuyo</strong>
+          <strong>Kita</strong>
           <br />
           <em>GitHub: <a href="https://github.com/Kita-Ikuyo">@Kita Ikuyo</a></em>
           <br />
           Contributions: Documentation 📖
         </a>
       </td>
-      <td align="center">
-        <a https://github.com/Hiroi-Kikuri">
-          <img src="https://github.com/user-attachments/assets/97319d6f-2b47-47f3-bc3d-514c8fa2c8de" alt="Vaibhav" width="100" height="100" />
-          <br />
-          <strong>Hiroi-Kikuri</strong>
-          <br />
-          <em>GitHub: <a href="https://github.com/Hiroi-Kikuri">@Hiroi-Kikuri</a></em>
-          <br />
-          Contributions: Documentation 📖
-        </a>
-      </td>
     </tr>
   </table>
+
+
 
 
 
