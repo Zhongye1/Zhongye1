@@ -10,8 +10,8 @@
 
 
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/42b94c05-a812-4359-955c-14203a05c5d7" align="right"/>
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/28259fc3-2bd1-47da-9a0e-74fbdb7cc052" align="right"/>
+<img height="300" alt="image" src="https://pic3.zhimg.com/80/v2-0c758a2d2f041b70cef4f9d2f647baac_720w.webp" align="right"/>
+<img height="300" alt="image" src="https://picx.zhimg.com/80/v2-e491f9c331cc60fcedd39c703d6dc037_720w.webp" align="right"/>
 
 *   来自湖北沔阳
 *   南漂中
@@ -39,8 +39,11 @@
 ---
 
 # GZHU-SITE-193
-![image](https://github.com/user-attachments/assets/4543b5c4-84e1-49a4-9623-b2646bbe936b)
+
+
 # 加入广州大学193号工作站！📋
+
+![image](https://pic1.zhimg.com/v2-9131b20113e7c8c3cde328522a90fabc_r.jpg)
 
 [![blog](https://img.shields.io/badge/HOST-GZHU-blue.svg)](https://www.gzhu.edu.cn/)
 [![blog](https://img.shields.io/badge/站长博客-zhongye1.github.io-orange.svg)](zhongye1.github.io)
@@ -49,7 +52,8 @@
 https://github.com/Guangzhou-University-SITE-193
 / Open Source Organization from Guangzhou-University
 
-<img height="150" alt="image" src="https://github.com/user-attachments/assets/a8315047-4533-452c-a0d1-9ac743fd1078"/>
+[![image](https://github.com/user-attachments/assets/4d69e9b0-57c8-469e-866d-8be674b41acc)
+](https://pic1.zhimg.com/v2-842db2fbcdb441bd2562cf457f8192b4_r.jpg)
 
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=github-compact&hide_border=true&area=true" align="left"/>
 
