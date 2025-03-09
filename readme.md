@@ -13,7 +13,7 @@
 <img height="300" alt="image" src="https://pic3.zhimg.com/80/v2-0c758a2d2f041b70cef4f9d2f647baac_720w.webp" align="right"/>
 <img height="300" alt="image" src="https://picx.zhimg.com/80/v2-e491f9c331cc60fcedd39c703d6dc037_720w.webp" align="right"/>
 
-*   来自湖北沔阳
+*   来自湖北
 *   南漂中
 *   数科专业
 *   广州大学大二就读
