@@ -28,7 +28,7 @@
 
 *  **博客**    https://zhongye1.github.io （欢迎添加友链
   
-*  **B站主页**   https://space.bilibili.com/446805121
+*  **B站**   https://space.bilibili.com/446805121
 
 * **Email**  zhongye@e.gzhu.edu.cn
   
