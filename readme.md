@@ -25,7 +25,7 @@
 
 
 
-*  **博客**    https://zhongye1.github.io （欢迎添加友链
+*  **博客**    https://zhongye1.github.io
   
 *  **B站**   https://space.bilibili.com/446805121
 
