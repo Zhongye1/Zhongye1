@@ -83,9 +83,9 @@ Thanks goes to these wonderful people:
         <a "https://github.com/Ijichi-Nijika">
           <img src="https://github.com/user-attachments/assets/7e8f5620-60e1-41ed-97c2-d7e7c4bebc12" alt="Ijichi-Nijika" width="100" height="100" />
           <br />
-          <strong>Ijichi Nijika</strong>
+          <strong>Nijika</strong>
           <br />
-          <em>GitHub: <a href="https://github.com/Ijichi-Nijika">@Ijichi-Nijika</a></em>
+          <em>GitHub: <a href="https://github.com/Ijichi-Nijika">@Nijika</a></em>
           <br />
           Contributions: Documentation 📖
         </a>
@@ -96,7 +96,7 @@ Thanks goes to these wonderful people:
           <br />
           <strong>Yamada-Ryo</strong>
           <br />
-          <em>GitHub: <a href="https://github.com/Yamada-Ryō">@Ryo233</a></em>
+          <em>GitHub: <a href="https://github.com/Yamada-Ryo">@Ryo233</a></em>
           <br />
           Contributions: Documentation 📖
         </a>
@@ -107,7 +107,7 @@ Thanks goes to these wonderful people:
           <br />
           <strong>Kita</strong>
           <br />
-          <em>GitHub: <a href="https://github.com/Kita-Ikuyo">@Kita Ikuyo</a></em>
+          <em>GitHub: <a href="https://github.com/Kita-Ikuyo">@KitaIkuyo</a></em>
           <br />
           Contributions: Documentation 📖
         </a>
