@@ -35,7 +35,8 @@
 
 
 
-[<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js&theme=light" />](https://github.com/Zhongye1/Zhongye1/edit/BLOG/readme.md)
+<img align="center" src="https://skillicons.dev/icons?i=py,c,java,html,css,js,&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=vscode,git,powershell,docker,arch,windows,&theme=light" />
 
 ---
 
