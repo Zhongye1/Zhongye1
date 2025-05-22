@@ -78,7 +78,6 @@ Thanks goes to these wonderful people:
           <br />
           <em>GitHub: <a href="https://github.com/Zhongye1">@Bocchi</a></em>
           <br />
-          
         </a>
       </td>
       <td align="center">
@@ -89,7 +88,6 @@ Thanks goes to these wonderful people:
           <br />
           <em>GitHub: <a href="https://github.com/Ijichi-Nijika">@Nijika</a></em>
           <br />
-          
         </a>
       </td>
       <td align="center">
@@ -100,7 +98,6 @@ Thanks goes to these wonderful people:
           <br />
           <em>GitHub: <a href="https://github.com/Yamada-Ryo">@Ryo233</a></em>
           <br />
-          
         </a>
       </td>
       <td align="center">
@@ -111,7 +108,6 @@ Thanks goes to these wonderful people:
           <br />
           <em>GitHub: <a href="https://github.com/Kita-Ikuyo">@KitaIkuyo</a></em>
           <br />
-          
         </a>
       </td>
     </tr>
