@@ -34,7 +34,7 @@
 
 
 
-<img align="center" src="https://skillicons.dev/icons?i=py,flask,fastapi,java,html,css,js,,ts,vue,electron,mysql,nodejs,vue,tailwindcss,electron,docker,git,npm,github,githubactions,anaconda,windows,ubuntufigma&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,flask,fastapi,java,html,css,js,ts,vue,electron,mysql,nodejs,vue,tailwindcss,electron,docker,git,npm,github,githubactions,anaconda,windows,ubuntufigma&theme=light" />
 
 ---
 
