@@ -36,6 +36,13 @@
 <br><br>
 <img align="center" src="https://skillicons.dev/icons?i=py,flask,fastapi,java,html,css,js,ts,vue,electron,mysql,nodejs,tailwindcss,docker,git,npm,github,githubactions,anaconda,windows,ubuntufigma&theme=light" />
 
+---
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=github-compact&hide_border=true&area=true" align="left"/>
+
+又不是所有肝的代码都能传GitHub所以commit为空很正常（（
+---
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" />
 
 
 
@@ -58,12 +65,6 @@ https://github.com/Guangzhou-University-SITE-193
 [![image](https://github.com/user-attachments/assets/4d69e9b0-57c8-469e-866d-8be674b41acc)
 ](https://pic1.zhimg.com/v2-842db2fbcdb441bd2562cf457f8192b4_r.jpg)
 
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=github-compact&hide_border=true&area=true" align="left"/>
-
-又不是所有肝的代码都能传GitHub所以commit为空很正常（（
----
-
-<img src="./profile-3d-contrib/profile-season-animate.svg" />
 
 ---
 
