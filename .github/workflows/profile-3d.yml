@@ -23,6 +23,8 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
+          echo "Ref: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}"
+          echo "Ref: ${{ github.repository_owner }}"
           if git commit -m "generated"; then
             git push
           fi
