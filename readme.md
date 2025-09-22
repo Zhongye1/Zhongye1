@@ -36,6 +36,9 @@
 <br><br>
 <img align="center" src="https://skillicons.dev/icons?i=py,flask,fastapi,java,html,css,js,ts,vue,electron,mysql,nodejs,tailwindcss,docker,git,npm,github,githubactions,anaconda,windows,ubuntufigma&theme=light" />
 
+
+
+
 ---
 
 # GZHU-SITE-193
@@ -60,7 +63,9 @@ https://github.com/Guangzhou-University-SITE-193
 又不是所有肝的代码都能传GitHub所以commit为空很正常（（
 ---
 
+<img src="./profile-3d-contrib/profile-season-animate.svg" />
 
+---
 
 ### 开发合作 📋
 
