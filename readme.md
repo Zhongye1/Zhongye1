@@ -121,7 +121,6 @@ Thanks goes to these wonderful people:
 你说的对，但是《GitHub》是由GitHub, Inc.自主研发的一款全新代码协作平台。使用该平台的项目托管在一个被称作「远程仓库」的数字空间，在这里，被Git选中的人将被授予「协作开发权能」，掌控版本控制的力量。你将扮演一位名为「Maintainer」的核心贡献者，在开放的协作中邂逅MIT、Apache、GPL等开源协议，探索CI/CD流水线和GitHub Pages的奥秘，和全球开发者一起Code Review，解决Merge Conflict和找回丢失的Commits的同时，逐步发掘「/.git」埋藏的真相。
 
 
-<img width="1900" height="1413" alt="image" src="https://github.com/user-attachments/assets/0183c76f-47ff-4d11-b00c-4bcb54b8ccb5" />
 
 
 
