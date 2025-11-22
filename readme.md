@@ -34,12 +34,8 @@
 
 
 <br><br>
-<img align="center" src="https://skillicons.dev/icons?i=py,flask,fastapi,java,html,css,js,ts,vue,electron,mysql,nodejs,tailwindcss,docker,git,npm,github,githubactions,anaconda,arch,ubuntu,figma,&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=python,cpp,java,flask,fastapi,html,css,less,tailwind,js,ts,nodejs,vue,electron,mysql,postgresql,docker,git,npm,github,githubactions,anaconda,arch,ubuntu,figma&perline=12&theme=light" />
 
----
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=Zhongye1&theme=github-compact&hide_border=true&area=true" align="left"/>
-
-又不是所有肝的代码都能传GitHub所以commit为空很正常（（
 ---
 
 <img src="./profile-3d-contrib/profile-season-animate.svg" />
@@ -48,12 +44,8 @@
 
 ---
 
-# GZHU-SITE-193
-
-
-# 加入广州大学193号工作站！📋
-
-![image](https://pic1.zhimg.com/v2-9131b20113e7c8c3cde328522a90fabc_r.jpg)
+# GZHU-SITE-LY
+# 加入广州大学林云工作室！📋
 
 [![blog](https://img.shields.io/badge/HOST-GZHU-blue.svg)](https://www.gzhu.edu.cn/)
 [![blog](https://img.shields.io/badge/站长博客-zhongye1.github.io-orange.svg)](zhongye1.github.io)
