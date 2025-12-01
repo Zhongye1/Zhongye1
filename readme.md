@@ -45,7 +45,6 @@
 ---
 
 # GZHU-SITE-LY
-# 加入广州大学林云工作室！📋
 
 [![blog](https://img.shields.io/badge/HOST-GZHU-blue.svg)](https://www.gzhu.edu.cn/)
 [![blog](https://img.shields.io/badge/站长博客-zhongye1.github.io-orange.svg)](zhongye1.github.io)
