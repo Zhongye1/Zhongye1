@@ -25,7 +25,7 @@
 
 
 
-*  **博客**    https://zhongye1.github.io
+*  **博客**  https://zhongye1.github.io/Arknight-notes/
   
 *  **B站**   https://space.bilibili.com/446805121
 
