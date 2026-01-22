@@ -60,8 +60,8 @@ https://github.com/Guangzhou-University-SITE-193
     </tr>
   </thead>
   <tbody>
-    <!-- BLOG:START -->
-    <!-- BLOG:END -->
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
   </tbody>
 </table>
 
