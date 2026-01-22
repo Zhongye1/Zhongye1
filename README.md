@@ -53,7 +53,7 @@ https://github.com/Guangzhou-University-SITE-193
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 </table>
 
 
