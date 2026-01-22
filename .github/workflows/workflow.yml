@@ -3,10 +3,10 @@ name: Latest blog posts
 on:
   workflow_dispatch: # 允许手动触发执行
   schedule:
-    - cron: '0 0 * * *'   # 每天 UTC 00:00 (北京时间早上 8:00) 自动执行一次
+    - cron: '0 0 * * *'   # 每天 UTC 00:00 自动执行一次
 
 permissions:
-  contents: write # 赋予 Action 修改仓库文件并提交的权限
+  contents: write # 赋予修改仓库文件并提交的权限
 
 jobs:
   update-readme-with-blog:
@@ -19,20 +19,17 @@ jobs:
       - name: Pull latest articles from blog RSS
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # 关键点 1: 这里的 tag 必须和 README 里的注释标签一致
-          # comment_tag_name: "BLOG" 
-          
-          # 关键点 2: 你的 RSS 源地址
+          # 1. 你的 RSS 源地址
           feed_list: "https://zhongye1.github.io/Arknight-notes/rss.xml"
           
-          # 关键点 3: 设置显示数量
+          # 2. 设置显示数量
           max_post_count: 5
           
-          # 关键点 4: 日期格式化 (例如: 2026-01-22)
-          date_format: "yyyy-mm-dd"
+          # 3. 修正日期格式：MM 必须大写，表示月份
+          date_format: "yyyy-MM-dd"
           
-          # 关键点 5: 核心模板！确保输出为 HTML 表格行格式
+          # 4. 确保输出为 HTML 表格行格式
           template: "<tr><td>$title</td><td align='center'>$date</td><td align='center'><a href='$url'>点击阅读</a></td></tr>"
           
-          # 自动提交时的备注信息
+          # 5. 自动提交时的备注信息
           commit_message: "chore: update latest blog articles"
