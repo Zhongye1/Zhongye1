@@ -1,0 +1,28 @@
+name: Latest blog post workflow
+
+on:
+  schedule:          # 自动每天运行一次
+    - cron: '0 0 * * *'     # UTC 00:00 ≈ 北京时间早上8点
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write    # 必须有写入权限才能改 README
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in Arknights notes blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1   # 最新稳定版是 v1（1.9.4+）
+        with:
+          feed_list: "https://zhongye1.github.io/Arknight-notes/rss.xml"   # ← 只改这里
+          max_post_count: 5                       # 显示最近几篇，建议 3~6
+          date_format: "YYYY-MM-DD"               # 日期格式（常见中文习惯）
+          # 可选：自定义显示样式（推荐）
+          template: "$newline- [$date] [$title]($url)"
+          # 如果想加来源名称（只有一个源也可以写）
+           feed_names: "BlackSteel Worldwide"
