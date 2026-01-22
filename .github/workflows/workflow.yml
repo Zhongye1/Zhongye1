@@ -1,18 +1,26 @@
-name: Latest stack oveflow activity
+name: Latest blog posts
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs once a day at 00:00 UTC
+    - cron: '0 0 * * *'   # 每天 UTC 00:00 执行一次
+
 permissions:
-      contents: write
+  contents: write
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest activity from StackOverflow
+    name: Update README with latest blog articles
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
+
+      - name: Pull latest articles from blog RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "STACKOVERFLOW"
+          comment_tag_name: "BLOG"                           # ← 建议改为 BLOG 或 ARKNOTES
           feed_list: "https://zhongye1.github.io/Arknight-notes/rss.xml"
-          template: "<tr><td>$title</td><td>$url</td></tr>"
+          max_post_count: 5                                  # 显示最近 5 篇，可调整为 3–10
+          date_format: "mmm d, yyyy"                         # 日期格式示例：Jan 22, 2026（可选）
+          template: "<tr><td>$title</td><td>$date</td><td><a href=\"$url\">View</a></td></tr>"
+          commit_message: "chore: update latest blog articles"
