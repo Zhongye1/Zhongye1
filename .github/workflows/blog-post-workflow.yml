@@ -22,7 +22,5 @@ jobs:
           feed_list: "https://zhongye1.github.io/Arknight-notes/rss.xml"   # ← 只改这里
           max_post_count: 5                       # 显示最近几篇，建议 3~6
           date_format: "YYYY-MM-DD"               # 日期格式（常见中文习惯）
-          # 可选：自定义显示样式（推荐）
-          template: "$newline- [$date] [$title]($url)"
           # 如果想加来源名称（只有一个源也可以写）
           feed_names: "BlackSteel Worldwide"
