@@ -25,4 +25,4 @@ jobs:
           # 可选：自定义显示样式（推荐）
           template: "$newline- [$date] [$title]($url)"
           # 如果想加来源名称（只有一个源也可以写）
-           feed_names: "BlackSteel Worldwide"
+          feed_names: "BlackSteel Worldwide"
