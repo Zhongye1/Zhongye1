@@ -1,16 +1,13 @@
-name: Latest blog post workflow
-
+name: Latest blog activity
 on:
-  schedule:          # 自动每天运行一次
-    - cron: '0 0 * * *'     # UTC 00:00 ≈ 北京时间早上8点
-  workflow_dispatch: # 支持手动触发
-
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs once a day at 00:00 UTC
 permissions:
-  contents: write    # 必须有写入权限才能改 README
-
+      contents: write
 jobs:
   update-readme-with-blog:
-    name: Update README with latest blog posts
+    name: Update this repo's README with latest activity from BLOG
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
