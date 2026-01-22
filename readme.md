@@ -1,5 +1,6 @@
-## Franka
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=zhongye1.zhongye1" alt="Visitors" />
+## Franka  <img src="https://visitor-badge.laobi.icu/badge?page_id=zhongye1.zhongye1" alt="Visitors" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Long+Cang&size=30&pause=2000&color=F7222C&width=435&lines=%E8%B6%8A%E8%BF%87%E9%95%BF%E5%9F%8E%EF%BC%8C%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C" alt="Typing SVG" /></a>
 
 <img height="300" alt="image" src="https://pic3.zhimg.com/80/v2-0c758a2d2f041b70cef4f9d2f647baac_720w.webp" align="right"/>
 <img height="300" alt="image" src="https://picx.zhimg.com/80/v2-e491f9c331cc60fcedd39c703d6dc037_720w.webp" align="right"/>
