@@ -55,18 +55,14 @@ https://github.com/Guangzhou-University-SITE-193
   <thead>
     <tr>
       <th align="left">文章标题</th>
-      <th align="center">发布日期</th>
-      <th align="center">链接</th>
+      <th align="center" width="120px">发布日期</th>
+      <th align="center" width="100px">跳转链接</th>
     </tr>
   </thead>
   <tbody>
 <!-- BLOG-POST-LIST:START -->
-- [YYYY-03-DD] [2026-01-19-杂记 2026-01-19](https://zhongye1.github.io/Arknight-notes/posts/22446.html)
-- [YYYY-15-DD] [2026-01-19-力扣百题速练（Javascript、TypeScript）Vol-5](https://zhongye1.github.io/Arknight-notes/posts/57550.html)
-- [YYYY-53-DD] [2026-01-17-力扣百题速练（Javascript、TypeScript）Vol-4](https://zhongye1.github.io/Arknight-notes/posts/19198.html)
-- [YYYY-43-DD] [2026-01-16-记录关于论文细化的方法论](https://zhongye1.github.io/Arknight-notes/posts/56232.html)
-- [YYYY-33-DD] [2026-01-16-关于低复杂度最长链共识算法设计](https://zhongye1.github.io/Arknight-notes/posts/566.html)<!-- BLOG-POST-LIST:END -->
+<!-- 此处内容将由 Action 自动填充，请删除之前手动留下的 - [YYYY...] 等内容 -->
+<!-- BLOG-POST-LIST:END -->
   </tbody>
 </table>
-
 
