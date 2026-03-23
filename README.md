@@ -65,7 +65,7 @@ https://github.com/Guangzhou-University-SITE-193
 <tr><td>2026-03-14-Windows 上的包管理利器 - Chocolatey</td><td align="center">2026-03-14</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/26594.html">点击阅读</a></td></tr>
 <tr><td>2026-03-08-Terminal2gif设计</td><td align="center">2026-03-08</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/25299.html">点击阅读</a></td></tr>
 <tr><td>2026-03-01-Windows wsl安装docker</td><td align="center">2026-03-01</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/7505.html">点击阅读</a></td></tr>
-<tr><td>2026-01-28-Next.js初上手</td><td align="center">2026-01-28</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/13686.html">点击阅读</a></td></tr>
+<tr><td>2026-01-28-Next.js上手</td><td align="center">2026-01-28</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/13686.html">点击阅读</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </tbody>
 </table>
