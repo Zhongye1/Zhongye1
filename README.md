@@ -61,11 +61,11 @@ https://github.com/Guangzhou-University-SITE-193
     </tr>
   </thead>
   <tbody>
-<!-- BLOG-POST-LIST:START --><tr><td>2026-03-14-关于 MSYS2</td><td align="center">2026-03-14</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/7573.html">点击阅读</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2026-03-28-团队项目协作规范</td><td align="center">2026-03-28</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/19959.html">点击阅读</a></td></tr>
+<tr><td>2026-03-28-FastAPI 工程实践相关</td><td align="center">2026-03-28</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/10196.html">点击阅读</a></td></tr>
+<tr><td>2026-03-14-关于 MSYS2</td><td align="center">2026-03-14</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/7573.html">点击阅读</a></td></tr>
 <tr><td>2026-03-14-Windows 上的包管理利器 - Chocolatey</td><td align="center">2026-03-14</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/26594.html">点击阅读</a></td></tr>
 <tr><td>2026-03-08-Terminal2gif设计</td><td align="center">2026-03-08</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/25299.html">点击阅读</a></td></tr>
-<tr><td>2026-03-01-Windows wsl安装docker</td><td align="center">2026-03-01</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/7505.html">点击阅读</a></td></tr>
-<tr><td>2026-01-28-Next.js上手</td><td align="center">2026-01-28</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/13686.html">点击阅读</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </tbody>
 </table>
