@@ -6,9 +6,7 @@
 <img height="300" alt="image" src="https://picx.zhimg.com/80/v2-e491f9c331cc60fcedd39c703d6dc037_720w.webp" align="right"/>
 
 *   来自湖北，南漂中
-*   数据科学与大数据技术专业
 *   GZHU 27届
-*   ~~正在寻找前后端开发/AML/DS 相关实习，欢迎联系~~
 *   ByteDance 前端RD
 
 
