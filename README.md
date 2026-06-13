@@ -18,7 +18,7 @@
 
 
 
-* **博客**  https://zhongye1.github.io/Arknight-notes/
+* **博客**  https://zhongye1.github.io/
 * **B站**   https://space.bilibili.com/446805121
 * **Email** zhongye@e.gzhu.edu.cn
 * **QQ**    2760913192
