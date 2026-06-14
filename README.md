@@ -46,7 +46,7 @@ https://github.com/Guangzhou-University-SITE-193
 
 ---
 
-### 关注博客：https://zhongye1.github.io/Arknight-notes/
+### 关注博客：https://zhongye1.github.io/
 
 最新文章：
 
