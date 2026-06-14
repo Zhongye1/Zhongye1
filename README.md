@@ -59,11 +59,11 @@ https://github.com/Guangzhou-University-SITE-193
     </tr>
   </thead>
   <tbody>
-<!-- BLOG-POST-LIST:START --><tr><td>2026-03-29-oh-my-posh配置分享</td><td align="center">2026-03-29</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/23681.html">点击阅读</a></td></tr>
-<tr><td>2026-03-28-团队项目协作规范随记</td><td align="center">2026-03-28</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/19959.html">点击阅读</a></td></tr>
-<tr><td>2026-03-14-关于 MSYS2</td><td align="center">2026-03-14</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/7573.html">点击阅读</a></td></tr>
-<tr><td>2026-03-14-Windows 上的包管理利器 - Chocolatey</td><td align="center">2026-03-14</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/26594.html">点击阅读</a></td></tr>
-<tr><td>2026-03-01-Windows wsl安装docker</td><td align="center">2026-03-01</td><td align="center"><a href="https://zhongye1.github.io/Arknight-notes/posts/7505.html">点击阅读</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2025-06-13-从上下文工程到 Agent Harness Engineering</td><td align="center">2026-06-13</td><td align="center"><a href="https://firefly.cuteleaf.cn/posts/2025-06-13-%E4%BB%8E%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%E5%88%B0-agent-harness-engineering/">点击阅读</a></td></tr>
+<tr><td>神经网络与深度学习：深度生成模型</td><td align="center">2026-06-07</td><td align="center"><a href="https://firefly.cuteleaf.cn/posts/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B/">点击阅读</a></td></tr>
+<tr><td>神经网络与深度学习：循环神经网络</td><td align="center">2026-06-07</td><td align="center"><a href="https://firefly.cuteleaf.cn/posts/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/">点击阅读</a></td></tr>
+<tr><td>神经网络与深度学习：卷积神经网络</td><td align="center">2026-06-07</td><td align="center"><a href="https://firefly.cuteleaf.cn/posts/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/">点击阅读</a></td></tr>
+<tr><td>神经网络与深度学习：改进学习方法</td><td align="center">2026-06-07</td><td align="center"><a href="https://firefly.cuteleaf.cn/posts/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%94%B9%E8%BF%9B%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/">点击阅读</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </tbody>
 </table>
