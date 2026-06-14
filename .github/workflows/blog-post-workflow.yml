@@ -19,7 +19,7 @@ jobs:
       - name: Pull latest articles
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://zhongye1.github.io/Arknight-notes/rss.xml"
+          feed_list: "https://zhongye1.github.io/rss.xml"
           max_post_count: 5
           # 修复点 1: 使用正确的日期格式（yyyy为年，MM为月，dd为日）
           date_format: "yyyy-mm-dd"
