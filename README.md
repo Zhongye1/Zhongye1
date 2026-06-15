@@ -5,26 +5,21 @@
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/eeed6346-d1bb-49d9-98c0-e6fdb5eb2f7e" align="right"/>
 <br>
 
-*   来自湖北，南漂中
-*   GZHU 27届
-*   ByteDance 前端RD
+* 来自湖北，南漂中
+  
+* GZHU 27届
+  
+* ByteDance 前端实习中
+  
+* 博客  https://zhongye1.github.io/
+  
+* Email zhongye@e.gzhu.edu.cn
+  
+* QQ    2760913192
 
-
-
-
-=====================
-
-
-
-
-
-* **博客**  https://zhongye1.github.io/
-* **Email** zhongye@e.gzhu.edu.cn
-* **QQ**    2760913192
-
-
-
-    <br>
+<br>
+<br>
+<br>
 <img align="center" src="https://zhongye1.github.io/assets/images/svg/skillsicon.svg" />
 
 ---
