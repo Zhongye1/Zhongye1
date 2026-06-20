@@ -53,11 +53,11 @@ https://github.com/Guangzhou-University-SITE-193
     </tr>
   </thead>
   <tbody>
-<!-- BLOG-POST-LIST:START --><tr><td>2026-06-14-数据可视化 Vol.3 可视化库</td><td align="center">2026-06-15</td><td align="center"><a href="https://zhongye1.github.io/posts/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/2026-06-15-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96-%E5%8F%AF%E8%A7%86%E5%8C%96%E5%BA%93/">点击阅读</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2026-06-19-关于CodeAgent设计 Vol.1</td><td align="center">2026-06-19</td><td align="center"><a href="https://zhongye1.github.io/posts/rsf_cagentic_project/2026-06-19-%E5%85%B3%E4%BA%8Ecodeagent%E8%AE%BE%E8%AE%A1/">点击阅读</a></td></tr>
+<tr><td>2026-06-14-数据可视化 Vol.3 可视化库</td><td align="center">2026-06-15</td><td align="center"><a href="https://zhongye1.github.io/posts/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/2026-06-15-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96-%E5%8F%AF%E8%A7%86%E5%8C%96%E5%BA%93/">点击阅读</a></td></tr>
 <tr><td>2026-06-14-数据可视化 Vol.2 常见图表</td><td align="center">2026-06-14</td><td align="center"><a href="https://zhongye1.github.io/posts/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/2026-06-14-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96-%E5%9F%BA%E6%9C%AC%E5%9B%BE%E5%83%8F/">点击阅读</a></td></tr>
 <tr><td>2026-06-14-数据可视化 Vol.1 概论</td><td align="center">2026-06-14</td><td align="center"><a href="https://zhongye1.github.io/posts/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/2026-06-14-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96-%E6%A6%82%E8%AE%BA/">点击阅读</a></td></tr>
 <tr><td>2026-06-13-从上下文工程到 Agent Harness Engineering</td><td align="center">2026-06-13</td><td align="center"><a href="https://zhongye1.github.io/posts/2026-06-13-%E4%BB%8E%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B%E5%88%B0-agent-harness-engineering/">点击阅读</a></td></tr>
-<tr><td>神经网络与深度学习：深度生成模型</td><td align="center">2026-06-07</td><td align="center"><a href="https://zhongye1.github.io/posts/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%B7%B1%E5%BA%A6%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B/">点击阅读</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </tbody>
 </table>
