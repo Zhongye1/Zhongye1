@@ -9,7 +9,7 @@
   
 * GZHU 27届
   
-* ByteDance 前端实习中
+* ByteDance Capcut FE Intern (Present)
   
 * 博客  https://zhongye1.github.io/
   
