@@ -136,6 +136,8 @@ https://github.com/Guangzhou-University-SITE-193
 ---
 
 ### 关注站长博客：https://zhongye1.github.io/
+
+
 <table>
   <thead>
     <tr>
@@ -154,6 +156,6 @@ https://github.com/Guangzhou-University-SITE-193
   </tbody>
 </table>
 
-
+<img width="1920" height="1080" alt="75852816ef9ea1a93dc81ad120cc5e31" src="https://github.com/user-attachments/assets/430f4de1-b3b0-4270-a59e-3119b65ecee4" />
 <img width="1093" height="308" alt="image" src="https://github.com/user-attachments/assets/7c106cc4-71f2-4ce4-990c-3135bc5569e4" />
 <div align="center"><a href="https://zhongye1.github.io/about/">登高峰乃见云平</a></div>
