@@ -34,7 +34,12 @@
 
 https://github.com/Guangzhou-University-SITE-193
 / Open Source Organization from Guangzhou-University
-![](https://picx.zhimg.com/v2-9131b20113e7c8c3cde328522a90fabc_r.jpg?source=d16d100b)
+
+<img width="817" height="105" alt="image" src="https://github.com/user-attachments/assets/433ee425-590a-4b70-8c0a-3292b05ff0b3" />
+
+<img width="1179" height="674" alt="image" src="https://github.com/user-attachments/assets/3fb51e83-6f37-4ae1-b5ae-11065a7a2afb" />
+
+
 **And Thanks goes to these wonderful people:**
 
 <div align="center">
