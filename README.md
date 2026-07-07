@@ -53,7 +53,6 @@ https://github.com/Guangzhou-University-SITE-193
           <br />
           <em>GitHub: <a href="https://github.com/Zhongye1">@Zhongye1</a></em>
           <br />
-          Contributions: Code 💻, Documentation 📖
         </a>
       </td>
       <td align="center">
@@ -64,7 +63,6 @@ https://github.com/Guangzhou-University-SITE-193
           <br />
           <em>GitHub: <a href="https://github.com/8023time">@8023time</a></em>
           <br />
-          Contributions: Documentation 📖
         </a>
       </td>
       <td align="center">
@@ -75,7 +73,6 @@ https://github.com/Guangzhou-University-SITE-193
           <br />
           <em>GitHub: <a href="https://github.com/arianna-h">@arianna-h</a></em>
           <br />
-          Contributions: Documentation 📖
         </a>
       </td>
       <td align="center">
@@ -86,7 +83,6 @@ https://github.com/Guangzhou-University-SITE-193
           <br />
           <em>GitHub: <a href="https://github.com/LF12306">@LF12306</a></em>
           <br />
-          Contributions: Documentation 📖
         </a>
       </td>
           <td align="center">
@@ -97,7 +93,6 @@ https://github.com/Guangzhou-University-SITE-193
           <br />
           <em>GitHub: <a href="https://github.com/ltzu929">@ltzu929</a></em>
           <br />
-          Contributions: Documentation 📖
         </a>
       </td>
     </tr>
@@ -112,7 +107,6 @@ https://github.com/Guangzhou-University-SITE-193
         <br />
         <em>GitHub: <a href="https://github.com/PixelTime24">@PixelTime24</a></em>
         <br />
-        Contributions: Documentation 📖
       </a>
     </td>
     <td align="center">
@@ -123,7 +117,6 @@ https://github.com/Guangzhou-University-SITE-193
         <br />
         <em>GitHub: <a href="https://github.com/XingJi-love">@XingJi-love</a></em>
         <br />
-        Contributions: Documentation 📖
       </a>
     </td>
     <td align="center">
@@ -134,7 +127,6 @@ https://github.com/Guangzhou-University-SITE-193
         <br />
         <em>GitHub: <a href="https://github.com/yinghuahua99">@yinghuahua99</a></em>
         <br />
-        Contributions: Documentation 📖
       </a>
     </td>
   </tr>
