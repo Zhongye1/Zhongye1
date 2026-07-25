@@ -5,7 +5,7 @@
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/eeed6346-d1bb-49d9-98c0-e6fdb5eb2f7e" align="right"/>
 <br>
 
-* 来自湖北，南漂中
+* 来自湖北，现居深圳
   
 * GZHU 27届
   
@@ -13,9 +13,7 @@
   
 * 博客  https://zhongye1.github.io/
   
-* Email zhongye@e.gzhu.edu.cn
-  
-* QQ    2760913192
+* Email && QQ 2760913192@qq.com
 
 <br>
 <br>
@@ -35,8 +33,6 @@
 https://github.com/Guangzhou-University-SITE-193
 / Open Source Organization from Guangzhou-University
 
-<img width="817" height="105" alt="image" src="https://github.com/user-attachments/assets/433ee425-590a-4b70-8c0a-3292b05ff0b3" />
-
 <img width="1179" height="674" alt="image" src="https://github.com/user-attachments/assets/3fb51e83-6f37-4ae1-b5ae-11065a7a2afb" />
 
 
@@ -45,16 +41,6 @@ https://github.com/Guangzhou-University-SITE-193
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <a https://github.com/Zhongye1">
-          <img src="https://avatars.githubusercontent.com/u/145737758?v=4" alt="Vaibhav" width="100" height="100" />
-          <br />
-          <strong>Liskarm</strong>
-          <br />
-          <em>GitHub: <a href="https://github.com/Zhongye1">@Zhongye1</a></em>
-          <br />
-        </a>
-      </td>
       <td align="center">
         <a "https://github.com/8023time">
           <img src="https://avatars.githubusercontent.com/u/175074711?v=4" alt="8023time" width="100" height="100" />
