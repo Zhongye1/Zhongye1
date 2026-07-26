@@ -133,7 +133,7 @@ https://github.com/Guangzhou-University-SITE-193
     </tr>
   </thead>
   <tbody>
-<!-- BLOG-POST-LIST:START --><tr><td>一个 LLM 输入法的实现</td><td align="center">2026-07-08</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-08-%E6%8A%8A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%A1%9E%E8%BF%9B%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%80%E4%B8%AA-llm-%E8%BE%93%E5%85%A5%E6%B3%95%E7%9A%84%E5%AE%9E%E7%8E%B0/">点击阅读</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2026-07-26-简谈前端基建标准与落地</td><td align="center">2026-07-13</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-26-%E7%AE%80%E8%B0%88%E5%89%8D%E7%AB%AF%E5%9F%BA%E5%BB%BA%E8%B4%A8%E9%87%8F%E6%A0%87%E5%87%86%E4%B8%8Eai%E5%8F%8B%E5%A5%BD%E5%BB%BA%E8%AE%BE/">点击阅读</a></td></tr>
 <tr><td>分布式处理与计算：数据降维</td><td align="center">2026-07-07</td><td align="center"><a href="https://zhongye1.github.io/posts/%E5%88%86%E5%B8%83%E5%BC%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97/%E5%88%86%E5%B8%83%E5%BC%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%95%B0%E6%8D%AE%E9%99%8D%E7%BB%B4/">点击阅读</a></td></tr>
 <tr><td>分布式处理与计算：聚类分析</td><td align="center">2026-07-07</td><td align="center"><a href="https://zhongye1.github.io/posts/%E5%88%86%E5%B8%83%E5%BC%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97/%E5%88%86%E5%B8%83%E5%BC%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90/">点击阅读</a></td></tr>
 <tr><td>分布式处理与计算：数值优化方法</td><td align="center">2026-07-07</td><td align="center"><a href="https://zhongye1.github.io/posts/%E5%88%86%E5%B8%83%E5%BC%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97/%E5%88%86%E5%B8%83%E5%BC%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%95%B0%E5%80%BC%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/">点击阅读</a></td></tr>
