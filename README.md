@@ -1,41 +1,57 @@
-##  <img src="https://visitor-badge.laobi.icu/badge?page_id=zhongye1.zhongye1" alt="Visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zhongye1.zhongye1&left_color=gray&right_color=blue&left_text=Visitors" alt="Visitors" /> <img src="https://img.shields.io/github/followers/zhongye1?label=Followers&style=social" alt="Followers" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Long+Cang&size=50&duration=4000&pause=2000&color=55A8F7&background=32D9FF00&width=1335&height=100&lines=%E2%80%9C%E8%B6%8A%E8%BF%87%E9%95%BF%E5%9F%8E%EF%BC%8C%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C%E2%80%9D;%E2%80%9CAcross+the+Great+Wall+we+can+reach+every+corner+in+the+world%E2%80%9D" alt="Typing SVG" /></a>
 
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/eeed6346-d1bb-49d9-98c0-e6fdb5eb2f7e" align="right"/>
+## About
+
+<img height="260" alt="avatar" src="https://github.com/user-attachments/assets/eeed6346-d1bb-49d9-98c0-e6fdb5eb2f7e" align="right" />
+
 <br>
 
 * 来自湖北，现居深圳
-  
-* GZHU 27届
-  
-* ByteDance Capcut FE Intern (Present)
+
+* GZHU 27届 数据科学与大数据技术
   
 * 博客  https://zhongye1.github.io/
   
 * Email && QQ 2760913192@qq.com
+
+* 技术宅
+
+
+
 
 <br>
 <br>
 <br>
 <img align="center" src="https://zhongye1.github.io/assets/images/svg/skillsicon.svg" />
 
----
 
+## 📈 GitHub Stats
 <img src="./profile-3d-contrib/profile-season-animate.svg" />
 
 
 
 
----
-### SITE-193
+## 友情组织
 
 https://github.com/Guangzhou-University-SITE-193
 / Open Source Organization from GZHU
 
+Thx goes to these wonderful people!
 <div align="center">
   <table>
     <tr>
+      <td align="center">
+        <a "https://github.com/situ2001">
+          <img src="https://avatars.githubusercontent.com/u/28241963?v=4" alt="situ2001" width="100" height="100" />
+          <br />
+          <strong>situ2001</strong>
+          <br />
+          <em>GitHub: <a href="https://github.com/situ2001">@situ2001</a></em>
+          <br />
+        </a>
+      </td>
       <td align="center">
         <a "https://github.com/8023time">
           <img src="https://avatars.githubusercontent.com/u/175074711?v=4" alt="8023time" width="100" height="100" />
@@ -116,7 +132,7 @@ https://github.com/Guangzhou-University-SITE-193
 
 ---
 
-### 关注站长博客：https://zhongye1.github.io/
+### 博客：https://zhongye1.github.io/ 欢迎添加友链！
 
 
 <table>
