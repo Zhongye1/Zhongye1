@@ -28,15 +28,10 @@
 
 
 ---
-### 加入组织，参与我们的校园信息化项目与学生技术社区建设！
+### SITE-193
 
 https://github.com/Guangzhou-University-SITE-193
-/ Open Source Organization from Guangzhou-University
-
-<img width="1179" height="674" alt="image" src="https://github.com/user-attachments/assets/3fb51e83-6f37-4ae1-b5ae-11065a7a2afb" />
-
-
-**And Thanks goes to these wonderful people:**
+/ Open Source Organization from GZHU
 
 <div align="center">
   <table>
@@ -142,6 +137,6 @@ https://github.com/Guangzhou-University-SITE-193
   </tbody>
 </table>
 
-<img width="1920" height="1080" alt="75852816ef9ea1a93dc81ad120cc5e31" src="https://github.com/user-attachments/assets/430f4de1-b3b0-4270-a59e-3119b65ecee4" />
-<img width="1093" height="308" alt="image" src="https://github.com/user-attachments/assets/7c106cc4-71f2-4ce4-990c-3135bc5569e4" />
+<img width="1676" height="862" alt="image" src="https://github.com/user-attachments/assets/7e7d4256-7c8e-44e0-868d-5c859c78de39" />
+
 <div align="center"><a href="https://zhongye1.github.io/about/">登高峰乃见云平</a></div>
