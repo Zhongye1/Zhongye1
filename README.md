@@ -144,11 +144,11 @@ Thx goes to these wonderful people!
     </tr>
   </thead>
   <tbody>
-<!-- BLOG-POST-LIST:START --><tr><td>2026-07-18-简谈SDD（规格驱动开发）</td><td align="center">2026-07-18</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-18-%E7%AE%80%E8%B0%88sdd%E8%A7%84%E8%8C%83%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91/">点击阅读</a></td></tr>
-<tr><td>2026-07-15-基于 MCP 的 Agentic RAG 系统实践：从知识检索到自主行动</td><td align="center">2026-07-15</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-15-%E5%9F%BA%E4%BA%8E-mcp-%E7%9A%84-agentic-rag-%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5/">点击阅读</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2026-07-22-个人Neovim配置分享</td><td align="center">2026-07-22</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-20-%E4%B8%AA%E4%BA%BAneovim%E9%85%8D%E7%BD%AE%E5%88%86%E4%BA%AB/">点击阅读</a></td></tr>
+<tr><td>2026-07-20-技术写作-关于设计文档</td><td align="center">2026-07-20</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-20-%E5%85%B3%E4%BA%8E%E6%8A%80%E6%9C%AF%E5%86%99%E4%BD%9C-%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3/">点击阅读</a></td></tr>
+<tr><td>2026-07-18-简谈SDD（规格驱动开发）</td><td align="center">2026-07-18</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-18-%E7%AE%80%E8%B0%88sdd%E8%A7%84%E8%8C%83%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91-copy/">点击阅读</a></td></tr>
+<tr><td>2026-07-15-Agentic RAG 系统实践：从知识检索到自主行动</td><td align="center">2026-07-15</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-15-agentic-rag-%E7%B3%BB%E7%BB%9F%E5%AE%9E%E8%B7%B5/">点击阅读</a></td></tr>
 <tr><td>2026-07-13-简谈前端基建标准与落地</td><td align="center">2026-07-13</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-13-%E7%AE%80%E8%B0%88%E5%89%8D%E7%AB%AF%E5%9F%BA%E5%BB%BA%E8%B4%A8%E9%87%8F%E6%A0%87%E5%87%86%E4%B8%8Eai%E5%8F%8B%E5%A5%BD%E5%BB%BA%E8%AE%BE/">点击阅读</a></td></tr>
-<tr><td>分布式处理与计算：数据降维</td><td align="center">2026-07-07</td><td align="center"><a href="https://zhongye1.github.io/posts/%E5%88%86%E5%B8%83%E5%BC%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97/%E5%88%86%E5%B8%83%E5%BC%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%95%B0%E6%8D%AE%E9%99%8D%E7%BB%B4/">点击阅读</a></td></tr>
-<tr><td>分布式处理与计算：聚类分析</td><td align="center">2026-07-07</td><td align="center"><a href="https://zhongye1.github.io/posts/%E5%88%86%E5%B8%83%E5%BC%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97/%E5%88%86%E5%B8%83%E5%BC%8F%E5%A4%84%E7%90%86%E4%B8%8E%E8%AE%A1%E7%AE%97%E8%81%9A%E7%B1%BB%E5%88%86%E6%9E%90/">点击阅读</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </tbody>
 </table>
