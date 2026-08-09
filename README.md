@@ -153,6 +153,7 @@ Thx goes to these wonderful people!
   </tbody>
 </table>
 
-<img width="1676" height="862" alt="image" src="https://github.com/user-attachments/assets/7e7d4256-7c8e-44e0-868d-5c859c78de39" />
+<img width="2300" height="1308" alt="image" src="https://github.com/user-attachments/assets/d3ce8e67-1ed1-4fd5-bd80-14824348d83b" />
+
 
 <div align="center"><a href="https://zhongye1.github.io/about/">登高峰乃见云平</a></div>
