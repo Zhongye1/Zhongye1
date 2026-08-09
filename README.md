@@ -10,7 +10,7 @@
 
 * 来自湖北，现居深圳
 
-* GZHU 27届 数据科学与大数据技术
+* GZHU 27届 数科专业
   
 * 博客  https://zhongye1.github.io/
   
