@@ -38,101 +38,9 @@
 https://github.com/Guangzhou-University-SITE-193
 / Open Source Organization from GZHU
 
-Thx goes to these wonderful people!
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a "https://github.com/situ2001">
-          <img src="https://avatars.githubusercontent.com/u/28241963?v=4" alt="situ2001" width="100" height="100" />
-          <br />
-          <strong>situ2001</strong>
-          <br />
-          <em>GitHub: <a href="https://github.com/situ2001">@situ2001</a></em>
-          <br />
-        </a>
-      </td>
-      <td align="center">
-        <a "https://github.com/8023time">
-          <img src="https://avatars.githubusercontent.com/u/175074711?v=4" alt="8023time" width="100" height="100" />
-          <br />
-          <strong>8023time</strong>
-          <br />
-          <em>GitHub: <a href="https://github.com/8023time">@8023time</a></em>
-          <br />
-        </a>
-      </td>
-      <td align="center">
-        <a "https://github.com/arianna-h">
-          <img src="https://avatars.githubusercontent.com/u/139214701?v=4" alt="Jonah Lawrence" width="100" height="100" />
-          <br />
-          <strong>Jianxuan Zhou</strong>
-          <br />
-          <em>GitHub: <a href="https://github.com/arianna-h">@arianna-h</a></em>
-          <br />
-        </a>
-      </td>
-      <td align="center">
-        <a "https://github.com/LF12306">
-          <img src="https://avatars.githubusercontent.com/u/100217045?v=4" alt="Milind Modi" width="100" height="100" />
-          <br />
-          <strong>yediao</strong>
-          <br />
-          <em>GitHub: <a href="https://github.com/LF12306">@LF12306</a></em>
-          <br />
-        </a>
-      </td>
-          <td align="center">
-        <a "https://github.com/ltzu929">
-          <img src="https://avatars.githubusercontent.com/u/184350138?v=4" alt="Milind Modi" width="100" height="100" />
-          <br />
-          <strong>ltzu929</strong>
-          <br />
-          <em>GitHub: <a href="https://github.com/ltzu929">@ltzu929</a></em>
-          <br />
-        </a>
-      </td>
-    </tr>
-</table>
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/PixelTime24">
-        <img src="https://github.com/PixelTime24.png?size=100" alt="PixelTime24" width="100" height="100" />
-        <br />
-        <strong>PixelTime24</strong>
-        <br />
-        <em>GitHub: <a href="https://github.com/PixelTime24">@PixelTime24</a></em>
-        <br />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/XingJi-love">
-        <img src="https://github.com/XingJi-love.png?size=100" alt="XingJi-love" width="100" height="100" />
-        <br />
-        <strong>XingJi-love</strong>
-        <br />
-        <em>GitHub: <a href="https://github.com/XingJi-love">@XingJi-love</a></em>
-        <br />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/yinghuahua99">
-        <img src="https://github.com/yinghuahua99.png?size=100" alt="yinghuahua99" width="100" height="100" />
-        <br />
-        <strong>yinghuahua99</strong>
-        <br />
-        <em>GitHub: <a href="https://github.com/yinghuahua99">@yinghuahua99</a></em>
-        <br />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
-
 ---
 
-### 博客：https://zhongye1.github.io/ 欢迎添加友链！
+### 博客：https://Zhongye1.github.io/ 欢迎添加友链！
 
 
 <table>
@@ -154,6 +62,3 @@ Thx goes to these wonderful people!
 </table>
 
 <img width="2300" height="1308" alt="image" src="https://github.com/user-attachments/assets/d3ce8e67-1ed1-4fd5-bd80-14824348d83b" />
-
-
-<div align="center"><a href="https://zhongye1.github.io/about/">登高峰乃见云平</a></div>
