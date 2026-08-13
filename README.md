@@ -10,7 +10,7 @@
 
 * 来自湖北，现居深圳
 
-* GZHU 27届 数科专业
+* GZHU 27届 数科
   
 * 博客  https://zhongye1.github.io/
   
