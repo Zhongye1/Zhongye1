@@ -52,11 +52,11 @@ https://github.com/Guangzhou-University-SITE-193
     </tr>
   </thead>
   <tbody>
-<!-- BLOG-POST-LIST:START --><tr><td>2026-07-29-记 FastAPI 工程实践</td><td align="center">2026-07-29</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-29-fastapi-%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E9%9A%8F%E8%AE%B0/">点击阅读</a></td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td>2026-08-12-[ADR]-Arkhiv_RAG-vol.1</td><td align="center">2026-08-12</td><td align="center"><a href="https://zhongye1.github.io/posts/rfc_agentic_project/rag/2026-08-12-adr-arkhiv_rag-vol1/">点击阅读</a></td></tr>
+<tr><td>2026-07-29-记 FastAPI 工程实践</td><td align="center">2026-07-29</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-29-fastapi-%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E9%9A%8F%E8%AE%B0/">点击阅读</a></td></tr>
 <tr><td>2026-07-25-[RFC]-Glushkov_OGAS</td><td align="center">2026-07-28</td><td align="center"><a href="https://zhongye1.github.io/posts/rfc_agentic_project/2026-07-25-rfc-glushkov_ogas/">点击阅读</a></td></tr>
 <tr><td>2026-07-22-个人Neovim配置分享</td><td align="center">2026-07-22</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-20-%E4%B8%AA%E4%BA%BAneovim%E9%85%8D%E7%BD%AE%E5%88%86%E4%BA%AB/">点击阅读</a></td></tr>
 <tr><td>2026-07-20-技术写作-关于设计文档</td><td align="center">2026-07-20</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-20-%E5%85%B3%E4%BA%8E%E6%8A%80%E6%9C%AF%E5%86%99%E4%BD%9C-%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3/">点击阅读</a></td></tr>
-<tr><td>2026-07-18-简谈SDD（规格驱动开发）</td><td align="center">2026-07-18</td><td align="center"><a href="https://zhongye1.github.io/posts/2026/2026-07-18-%E7%AE%80%E8%B0%88sdd%E8%A7%84%E8%8C%83%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91-copy/">点击阅读</a></td></tr>
 <!-- BLOG-POST-LIST:END -->
   </tbody>
 </table>
