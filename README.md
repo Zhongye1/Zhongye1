@@ -12,7 +12,7 @@
 
 * GZHU 27届 数科
   
-* 博客  https://zhongye1.github.io/
+* 博客  https://blog.junce.net/
   
 * Email && QQ 2760913192@qq.com
 
@@ -40,7 +40,7 @@ https://github.com/Guangzhou-University-SITE-193
 
 ---
 
-### 博客：https://Zhongye1.github.io/ 欢迎添加友链！
+### 博客：https://blog.junce.net/ 欢迎添加友链！
 
 
 <table>
