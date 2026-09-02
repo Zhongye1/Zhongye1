@@ -14,7 +14,9 @@
   
 * 博客  https://blog.junce.net/
   
-* Email && QQ 2760913192@qq.com
+* Email 2760913192@qq.com
+
+* wx: Zhong_ye1
 
 * 技术宅
 
