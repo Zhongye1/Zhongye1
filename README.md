@@ -4,36 +4,84 @@
 
 ## About
 
-<img height="260" alt="avatar" src="https://github.com/user-attachments/assets/eeed6346-d1bb-49d9-98c0-e6fdb5eb2f7e" align="right" />
+<img height="360" alt="avatar" src="https://pic1.zhimg.com/80/v2-50c7caefba7ac66fae3ae9a843f14fae_1440w.webp?source=d16d100b" align="right" />
 
-<br>
+- 来自湖北，现居深圳
 
-* 来自湖北，现居深圳
+- GZHU 27届 大数据专业 校招求职中 ⟶ [简历](./assets/前端简历_reconstructed_compressed.pdf)
 
-* GZHU 27届 数科
-  
-* 博客  https://blog.junce.net/
-  
-* Email 2760913192@qq.com
+- Github https://github.com/zhongye1
 
-* wx: Zhong_ye1
+- 博客 https://blog.junce.net/
 
-* 技术宅
+- Email 2760913192@qq.com
 
+- Wechat
 
+<img width=170  alt="wx" src="https://pica.zhimg.com/v2-f6f4b1442f2f427eb6ad00a1a44bd69a_r.jpg" />
 
+## Technology Stack
 
-<br>
-<br>
-<br>
-<img align="center" src="https://zhongye1.github.io/assets/images/svg/skillsicon.svg" />
-
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![Nest](https://img.shields.io/badge/Nest-E0234E?logo=nestjs&logoColor=fff&style=flat)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
+![Gin](https://img.shields.io/badge/Gin-008ECF?logo=go&logoColor=fff&style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff&style=flat)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=fff&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=fff&style=flat)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff&style=flat)
+![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=fff&style=flat)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?logo=pinia&logoColor=000&style=flat)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=flat)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=flat)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000&style=flat)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat)
+![Vitest](https://img.shields.io/badge/Vitest-729B1B?logo=vitest&logoColor=fff&style=flat)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=000&style=flat)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=fff&style=flat)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff&style=flat)
+![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?logo=rollup.js&logoColor=fff&style=flat)
+![esbuild](https://img.shields.io/badge/esbuild-FFCF00?logo=esbuild&logoColor=000&style=flat)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff&style=flat)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff&style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=flat)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=flat)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=flat)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff&style=flat)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat)
+![etcd](https://img.shields.io/badge/etcd-419EDA?logo=etcd&logoColor=fff&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 
 ## 📈 GitHub Stats
+
 <img src="./profile-3d-contrib/profile-season-animate.svg" />
-
-
-
 
 ## 友情组织
 
@@ -42,8 +90,9 @@ https://github.com/Guangzhou-University-SITE-193
 
 ---
 
-### 博客：https://blog.junce.net/ 欢迎添加友链！
+## 博客
 
+欢迎添加友链：https://blog.junce.net/
 
 <table>
   <thead>
@@ -62,5 +111,3 @@ https://github.com/Guangzhou-University-SITE-193
 <!-- BLOG-POST-LIST:END -->
   </tbody>
 </table>
-
-<img width="2300" height="1308" alt="image" src="https://github.com/user-attachments/assets/d3ce8e67-1ed1-4fd5-bd80-14824348d83b" />
